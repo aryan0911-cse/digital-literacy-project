@@ -1,1 +1,28 @@
-This project, titled the Digital Literacy Portfolio, is designed to transition students into the role of a Student Digital Ambassador. The primary objective is to build a comprehensive professional presence and master essential digital tools required for a B.Tech career.The project is structured into five core modules, each resulting in a specific deliverable stored within a organized GitHub repository. Below is the detailed description of each component:Project Core ComponentsModule 1: Visual Communication – Creating an infographic using tools like Canva to simplify complex digital literacy concepts for a student audience.Module 2: Professional Identity – Establishing a digital footprint on platforms like LinkedIn and GitHub, including a customized Profile README to showcase academic goals.Module 3: Technical & Cloud Collaboration – Demonstrating coding proficiency on platforms like HackerRank and mastering data collection through Google Workspace tools.Module 4: Digital Etiquette – Mastering professional email communication and creating a checklist for responsible social media behavior.Module 5: Cyber Awareness – Conducting a case study on modern online threats (like Phishing or UPI fraud) and developing a prevention guide to ensure online safety.Deliverables and SubmissionThe final output is a Public GitHub Repository which must contain a structured set of folders for each task, a detailed README.md acting as the landing page, and a final Project Report in PDF or .docx format.The project is evaluated on a Pass/Fail basis (minimum 50/100 marks), focusing on the clarity of reflections, the quality of the digital profiles created, and the adherence to professional communication standards.
+Name: aryan singh patel
+Registration Number: 25BCE11138
+Branch: B.Tech CSE
+Year: First Year 
+Course Code: CSE0001 - Digital Literacy 
+Project Overview
+This repository serves as my official portfolio for the Digital Literacy course at VIT Bhopal University. As a Student Digital Ambassador, I have documented my journey through five modules, covering topics from visual communication and professional networking to cybersecurity and email etiquette.
+Module Summaries
+🎨 Module 1: Digital Literacy Awareness
+•	Task: Created an infographic using [Tool Name, e.g., Canva] to define digital literacy and its importance for students.
+•	Folder: task-1-presentation/ 
+🌐 Module 2: Professional Digital Presence
+•	Task: Established professional profiles on GitHub, LinkedIn, and [Third Platform Name] to build a foundational career identity.
+•	Folder: task-2-portfolio/ 
+💻 Module 3: Coding & Collaboration
+•	Task: Completed a beginner coding challenge on [Platform Name] and designed a Digital Literacy Awareness Quiz using Google Forms.
+•	Quiz Link: [Paste your Google Form Link Here] 
+•	Folder: task-3-platforms/ 
+📧 Module 4: Professional Communication
+•	Task: Drafted professional emails for academic and internship requests, and developed a Social Media Do's and Don'ts checklist.
+•	Folder: task-4-email-etiquette/ 
+🛡️ Module 5: Cybercrime Awareness
+•	Task: Researched a case study on [Chosen Crime Type, e.g., Phishing] and created a safety prevention checklist for college students.
+•	Folder: task-5-cybercrime/ 
+Project Deliverables
+•	Full Report: Located in the report/ folder as a [PDF/Docx] file.
+•	Repository Structure: Organized into five task-specific folders and a central report directory.
+
