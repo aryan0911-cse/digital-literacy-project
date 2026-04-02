@@ -1,3 +1,4 @@
+Digital Literacy Portfolio
 Name: aryan singh patel
 Registration Number: 25BCE11138
 Branch: B.Tech CSE
@@ -25,4 +26,6 @@ Module Summaries
 Project Deliverables
 •	Full Report: Located in the report/ folder as a [PDF/Docx] file.
 •	Repository Structure: Organized into five task-specific folders and a central report directory.
+
+
 
